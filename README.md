@@ -1,2 +1,2 @@
 # LTClassBot
-Bot to book LT classes
+Selenium bot to book LT classes hopefully to be replaced by API calls
